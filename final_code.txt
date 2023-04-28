@@ -1,0 +1,24 @@
+extern printf
+SECTION .data
+format: db "%d", 10, 0
+SECTION .text
+global main
+main:
+push rbp
+MOV RAX, 2
+MOV [RBP-4], RAX
+MOV RAX, 3
+MOV [RBP-12], RAX
+MOV RAX, [RBP-4]
+ADD RAX, [RBP-12]
+MOV [RBP-20], RAX
+push RAX
+MOV RAX, [RBP-20]
+MOV [RBP-0], RAX
+lea rax,format
+push rax
+call printf
+add rsp, 8
+pop rbp
+mov rax, 0
+ret

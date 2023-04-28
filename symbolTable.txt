@@ -1,0 +1,105 @@
+var_name: x         , assigned:  0         ,  scopeName: switch_var_demo1,   width:           2         , offset:      0         , nestingLevel: 1         , lineNo:     9         
+Type:     integer   , is_array:  0         , is_static_array: 0         , is_function: 0         , leftIndex:    -1        , rightIndex: -1        , leftIndexName: (null)    , rightIndexName: (null)    , isDynamicLeft: 0         , isDynamicRight: 0         
+
+var_name: y         , assigned:  0         ,  scopeName: switch_var_demo1,   width:           4         , offset:      2         , nestingLevel: 1         , lineNo:     9         
+Type:     real      , is_array:  0         , is_static_array: 0         , is_function: 0         , leftIndex:    -1        , rightIndex: -1        , leftIndexName: (null)    , rightIndexName: (null)    , isDynamicLeft: 0         , isDynamicRight: 0         
+
+var_name: z         , assigned:  0         ,  scopeName: switch_var_demo1,   width:           1         , offset:      6         , nestingLevel: 1         , lineNo:     9         
+Type:     boolean   , is_array:  0         , is_static_array: 0         , is_function: 0         , leftIndex:    -1        , rightIndex: -1        , leftIndexName: (null)    , rightIndexName: (null)    , isDynamicLeft: 0         , isDynamicRight: 0         
+
+var_name: u         , assigned:  0         ,  scopeName: switch_var_demo1,   width:           2         , offset:      7         , nestingLevel: 1         , lineNo:     10        
+Type:     integer   , is_array:  0         , is_static_array: 0         , is_function: 0         , leftIndex:    -1        , rightIndex: -1        , leftIndexName: (null)    , rightIndexName: (null)    , isDynamicLeft: 0         , isDynamicRight: 0         
+
+var_name: switch_var_demo1, assigned:  1         ,  scopeName: GLOBAL_SCOPE,   width:           -1        , offset:      -1        , nestingLevel: 0         , lineNo:     8         
+Type:     module    , is_array:  0         , is_static_array: 0         , is_function: 1         , leftIndex:    -1        , rightIndex: -1        , leftIndexName: (null)    , rightIndexName: (null)    , isDynamicLeft: 0         , isDynamicRight: 0         
+Input Params:
+type:     integer   , is_array:  0         , is_static_array: 0         , is_function: 0         , leftIndex:    -1        , rightIndex: -1        , leftIndexName: (null)    , rightIndexName: (null)    , isDynamicLeft: 0         , isDynamicRight: 0          
+type:     real      , is_array:  0         , is_static_array: 0         , is_function: 0         , leftIndex:    -1        , rightIndex: -1        , leftIndexName: (null)    , rightIndexName: (null)    , isDynamicLeft: 0         , isDynamicRight: 0          
+type:     boolean   , is_array:  0         , is_static_array: 0         , is_function: 0         , leftIndex:    -1        , rightIndex: -1        , leftIndexName: (null)    , rightIndexName: (null)    , isDynamicLeft: 0         , isDynamicRight: 0          
+Output Params:
+type:     integer   , is_array:  0         , is_static_array: 0         , is_function: 0         , leftIndex:    -1        , rightIndex: -1        , leftIndexName: (null)    , rightIndexName: (null)    , isDynamicLeft: 0         , isDynamicRight: 0          
+
+var_name: m         , assigned:  0         ,  scopeName: switch_var_demo1,   width:           2         , offset:      9         , nestingLevel: 1         , lineNo:     13        
+Type:     integer   , is_array:  0         , is_static_array: 0         , is_function: 0         , leftIndex:    -1        , rightIndex: -1        , leftIndexName: (null)    , rightIndexName: (null)    , isDynamicLeft: 0         , isDynamicRight: 0         
+
+var_name: n         , assigned:  0         ,  scopeName: switch_var_demo1,   width:           2         , offset:      11        , nestingLevel: 1         , lineNo:     13        
+Type:     integer   , is_array:  0         , is_static_array: 0         , is_function: 0         , leftIndex:    -1        , rightIndex: -1        , leftIndexName: (null)    , rightIndexName: (null)    , isDynamicLeft: 0         , isDynamicRight: 0         
+
+var_name: k         , assigned:  0         ,  scopeName: switch_var_demo1,   width:           2         , offset:      13        , nestingLevel: 1         , lineNo:     13        
+Type:     integer   , is_array:  0         , is_static_array: 0         , is_function: 0         , leftIndex:    -1        , rightIndex: -1        , leftIndexName: (null)    , rightIndexName: (null)    , isDynamicLeft: 0         , isDynamicRight: 0         
+
+var_name: h         , assigned:  0         ,  scopeName: switch_var_demo1,   width:           1         , offset:      15        , nestingLevel: 1         , lineNo:     14        
+Type:     boolean   , is_array:  0         , is_static_array: 0         , is_function: 0         , leftIndex:    -1        , rightIndex: -1        , leftIndexName: (null)    , rightIndexName: (null)    , isDynamicLeft: 0         , isDynamicRight: 0         
+
+var_name: p         , assigned:  0         ,  scopeName: switch_var_demo1,   width:           4         , offset:      16        , nestingLevel: 1         , lineNo:     15        
+Type:     real      , is_array:  0         , is_static_array: 0         , is_function: 0         , leftIndex:    -1        , rightIndex: -1        , leftIndexName: (null)    , rightIndexName: (null)    , isDynamicLeft: 0         , isDynamicRight: 0         
+
+var_name: A         , assigned:  0         ,  scopeName: CASE      ,   width:           4         , offset:      20        , nestingLevel: 2         , lineNo:     19        
+Type:     real      , is_array:  0         , is_static_array: 0         , is_function: 0         , leftIndex:    -1        , rightIndex: -1        , leftIndexName: (null)    , rightIndexName: (null)    , isDynamicLeft: 0         , isDynamicRight: 0         
+
+var_name: Q         , assigned:  0         ,  scopeName: CASE      ,   width:           2         , offset:      24        , nestingLevel: 2         , lineNo:     20        
+Type:     integer   , is_array:  0         , is_static_array: 0         , is_function: 0         , leftIndex:    -1        , rightIndex: -1        , leftIndexName: (null)    , rightIndexName: (null)    , isDynamicLeft: 0         , isDynamicRight: 0         
+
+var_name: B         , assigned:  0         ,  scopeName: CASE      ,   width:           83        , offset:      26        , nestingLevel: 2         , lineNo:     21        
+Type:     integer   , is_array:  1         , is_static_array: 1         , is_function: 0         , leftIndex:    -10       , rightIndex: 30        , leftIndexName: (null)    , rightIndexName: (null)    , isDynamicLeft: 0         , isDynamicRight: 0         
+
+var_name: E         , assigned:  0         ,  scopeName: CASE      ,   width:           15        , offset:      109       , nestingLevel: 2         , lineNo:     22        
+Type:     integer   , is_array:  1         , is_static_array: 1         , is_function: 0         , leftIndex:    4         , rightIndex: 10        , leftIndexName: (null)    , rightIndexName: (null)    , isDynamicLeft: 0         , isDynamicRight: 0         
+
+var_name: m         , assigned:  0         ,  scopeName: FOR_LOOP  ,   width:           2         , offset:      124       , nestingLevel: 3         , lineNo:     27        
+Type:     integer   , is_array:  0         , is_static_array: 0         , is_function: 0         , leftIndex:    -1        , rightIndex: -1        , leftIndexName: (null)    , rightIndexName: (null)    , isDynamicLeft: 0         , isDynamicRight: 0         
+
+var_name: A         , assigned:  0         ,  scopeName: CASE      ,   width:           4         , offset:      126       , nestingLevel: 2         , lineNo:     48        
+Type:     real      , is_array:  0         , is_static_array: 0         , is_function: 0         , leftIndex:    -1        , rightIndex: -1        , leftIndexName: (null)    , rightIndexName: (null)    , isDynamicLeft: 0         , isDynamicRight: 0         
+
+var_name: Q         , assigned:  0         ,  scopeName: CASE      ,   width:           2         , offset:      130       , nestingLevel: 2         , lineNo:     49        
+Type:     integer   , is_array:  0         , is_static_array: 0         , is_function: 0         , leftIndex:    -1        , rightIndex: -1        , leftIndexName: (null)    , rightIndexName: (null)    , isDynamicLeft: 0         , isDynamicRight: 0         
+
+var_name: B         , assigned:  0         ,  scopeName: CASE      ,   width:           43        , offset:      132       , nestingLevel: 2         , lineNo:     50        
+Type:     integer   , is_array:  1         , is_static_array: 1         , is_function: 0         , leftIndex:    10        , rightIndex: 30        , leftIndexName: (null)    , rightIndexName: (null)    , isDynamicLeft: 0         , isDynamicRight: 0         
+
+var_name: E         , assigned:  0         ,  scopeName: CASE      ,   width:           15        , offset:      175       , nestingLevel: 2         , lineNo:     51        
+Type:     integer   , is_array:  1         , is_static_array: 1         , is_function: 0         , leftIndex:    4         , rightIndex: 10        , leftIndexName: (null)    , rightIndexName: (null)    , isDynamicLeft: 0         , isDynamicRight: 0         
+
+var_name: m         , assigned:  0         ,  scopeName: FOR_LOOP  ,   width:           2         , offset:      190       , nestingLevel: 3         , lineNo:     56        
+Type:     integer   , is_array:  0         , is_static_array: 0         , is_function: 0         , leftIndex:    -1        , rightIndex: -1        , leftIndexName: (null)    , rightIndexName: (null)    , isDynamicLeft: 0         , isDynamicRight: 0         
+
+var_name: x         , assigned:  0         ,  scopeName: for_loop_demo,   width:           2         , offset:      0         , nestingLevel: 1         , lineNo:     72        
+Type:     integer   , is_array:  0         , is_static_array: 0         , is_function: 0         , leftIndex:    -1        , rightIndex: -1        , leftIndexName: (null)    , rightIndexName: (null)    , isDynamicLeft: 0         , isDynamicRight: 0         
+
+var_name: y         , assigned:  0         ,  scopeName: for_loop_demo,   width:           4         , offset:      2         , nestingLevel: 1         , lineNo:     72        
+Type:     real      , is_array:  0         , is_static_array: 0         , is_function: 0         , leftIndex:    -1        , rightIndex: -1        , leftIndexName: (null)    , rightIndexName: (null)    , isDynamicLeft: 0         , isDynamicRight: 0         
+
+var_name: z         , assigned:  0         ,  scopeName: for_loop_demo,   width:           1         , offset:      6         , nestingLevel: 1         , lineNo:     72        
+Type:     boolean   , is_array:  0         , is_static_array: 0         , is_function: 0         , leftIndex:    -1        , rightIndex: -1        , leftIndexName: (null)    , rightIndexName: (null)    , isDynamicLeft: 0         , isDynamicRight: 0         
+
+var_name: u         , assigned:  0         ,  scopeName: for_loop_demo,   width:           2         , offset:      7         , nestingLevel: 1         , lineNo:     73        
+Type:     integer   , is_array:  0         , is_static_array: 0         , is_function: 0         , leftIndex:    -1        , rightIndex: -1        , leftIndexName: (null)    , rightIndexName: (null)    , isDynamicLeft: 0         , isDynamicRight: 0         
+
+var_name: for_loop_demo, assigned:  1         ,  scopeName: GLOBAL_SCOPE,   width:           -1        , offset:      -1        , nestingLevel: 0         , lineNo:     71        
+Type:     module    , is_array:  0         , is_static_array: 0         , is_function: 1         , leftIndex:    -1        , rightIndex: -1        , leftIndexName: (null)    , rightIndexName: (null)    , isDynamicLeft: 0         , isDynamicRight: 0         
+Input Params:
+type:     integer   , is_array:  0         , is_static_array: 0         , is_function: 0         , leftIndex:    -1        , rightIndex: -1        , leftIndexName: (null)    , rightIndexName: (null)    , isDynamicLeft: 0         , isDynamicRight: 0          
+type:     real      , is_array:  0         , is_static_array: 0         , is_function: 0         , leftIndex:    -1        , rightIndex: -1        , leftIndexName: (null)    , rightIndexName: (null)    , isDynamicLeft: 0         , isDynamicRight: 0          
+type:     boolean   , is_array:  0         , is_static_array: 0         , is_function: 0         , leftIndex:    -1        , rightIndex: -1        , leftIndexName: (null)    , rightIndexName: (null)    , isDynamicLeft: 0         , isDynamicRight: 0          
+Output Params:
+type:     integer   , is_array:  0         , is_static_array: 0         , is_function: 0         , leftIndex:    -1        , rightIndex: -1        , leftIndexName: (null)    , rightIndexName: (null)    , isDynamicLeft: 0         , isDynamicRight: 0          
+
+var_name: k         , assigned:  0         ,  scopeName: for_loop_demo,   width:           2         , offset:      9         , nestingLevel: 1         , lineNo:     76        
+Type:     integer   , is_array:  0         , is_static_array: 0         , is_function: 0         , leftIndex:    -1        , rightIndex: -1        , leftIndexName: (null)    , rightIndexName: (null)    , isDynamicLeft: 0         , isDynamicRight: 0         
+
+var_name: k         , assigned:  0         ,  scopeName: FOR_LOOP  ,   width:           2         , offset:      11        , nestingLevel: 2         , lineNo:     77        
+Type:     integer   , is_array:  0         , is_static_array: 0         , is_function: 0         , leftIndex:    -1        , rightIndex: -1        , leftIndexName: (null)    , rightIndexName: (null)    , isDynamicLeft: 0         , isDynamicRight: 0         
+
+var_name: a         , assigned:  0         ,  scopeName: DRIVER    ,   width:           2         , offset:      0         , nestingLevel: 1         , lineNo:     86        
+Type:     integer   , is_array:  0         , is_static_array: 0         , is_function: 0         , leftIndex:    -1        , rightIndex: -1        , leftIndexName: (null)    , rightIndexName: (null)    , isDynamicLeft: 0         , isDynamicRight: 0         
+
+var_name: b         , assigned:  0         ,  scopeName: DRIVER    ,   width:           2         , offset:      2         , nestingLevel: 1         , lineNo:     86        
+Type:     integer   , is_array:  0         , is_static_array: 0         , is_function: 0         , leftIndex:    -1        , rightIndex: -1        , leftIndexName: (null)    , rightIndexName: (null)    , isDynamicLeft: 0         , isDynamicRight: 0         
+
+var_name: c         , assigned:  0         ,  scopeName: DRIVER    ,   width:           4         , offset:      4         , nestingLevel: 1         , lineNo:     87        
+Type:     real      , is_array:  0         , is_static_array: 0         , is_function: 0         , leftIndex:    -1        , rightIndex: -1        , leftIndexName: (null)    , rightIndexName: (null)    , isDynamicLeft: 0         , isDynamicRight: 0         
+
+var_name: d         , assigned:  0         ,  scopeName: DRIVER    ,   width:           1         , offset:      8         , nestingLevel: 1         , lineNo:     88        
+Type:     boolean   , is_array:  0         , is_static_array: 0         , is_function: 0         , leftIndex:    -1        , rightIndex: -1        , leftIndexName: (null)    , rightIndexName: (null)    , isDynamicLeft: 0         , isDynamicRight: 0         
+

@@ -1,0 +1,139 @@
+Program Moduledeclarations Othermodules Drivermodule Othermodules .
+Moduledeclarations Moduledeclaration Moduledeclarations .
+Moduledeclarations .
+Moduledeclaration declare module id semicol .
+Othermodules Module Othermodules .
+Othermodules .
+Drivermodule driverdef driver program driverenddef Moduledef .
+Module def module id enddef takes input sqbo Input_plist sqbc semicol Ret Moduledef .
+Ret returns sqbo Output_plist sqbc semicol .
+Ret .
+Input_plist id colon Datatype A' .
+A' comma id colon Datatype A' .
+A' .
+Output_plist id colon Datatype B' .
+B' comma id colon Datatype B' .
+B' .
+Datatype integer .
+Datatype real .
+Datatype boolean .
+Datatype array sqbo Rangenew sqbc of Type .
+Rangenew Indarray rangeop Indarray .
+Indarray Sign Indexcoef .
+Indarray Indexcoef .
+Indexcoef num .
+Indexcoef id .
+Sign plus .
+Sign minus .
+Type integer .
+Type real .
+Type boolean .
+Moduledef start Statements end .
+Statements Statement Statements .
+Statements .
+Statement Iostmt .
+Statement Simplestmt .
+Statement Declarestmt .
+Statement Conditionalstmt .
+Statement Iterativestmt .
+Iostmt get_value bo id bc semicol .
+Iostmt print bo Printvar bc semicol .
+Varnew Printvar .
+Varnew Sign Printvar .
+Printvar Bool .
+Printvar num .
+Printvar rnum .
+Printvar id J' .
+J' sqbo Indarray sqbc .
+J' .
+Simplestmt Assignmentstmt .
+Simplestmt Modulereusestmt .
+Assignmentstmt id Whichstmt .
+Whichstmt Lvalueidstmt .
+Whichstmt Lvaluearrstmt .
+Lvalueidstmt assignop Expression semicol .
+Lvaluearrstmt sqbo Elemindex sqbc assignop Expression semicol .
+Elemindex Sign G' .
+Elemindex Aexpr .
+G' Indexcoef .
+G' bo Aexpr bc .
+Modulereusestmt Optional use module id with parameters Actparalist semicol .
+Optional sqbo Idlist sqbc assignop .
+Optional .
+Idlist id C' .
+C' comma id C' .
+C' .
+Actparalist Varnew N11 .
+N11 comma Varnew N11 .
+N11 .
+Expression Aorbexpr .
+Expression Unaryexpr .
+Unaryexpr Op3 Unaryop .
+Unaryop bo Arithmeticexpr bc .
+Unaryop Var_idnum .
+Var_idnum num .
+Var_idnum rnum .
+Var_idnum id .
+Op3 plus .
+Op3 minus .
+Aorbexpr Genterm H' .
+H' Logicalop Genterm H' .
+H' .
+Genterm Arithmeticexpr I' .
+I' Relationalop Arithmeticexpr .
+I' .
+Arithmeticexpr Term D' .
+D' Op1 Term D' .
+D' .
+Op1 plus .
+Op1 minus .
+Term Factor E' .
+E' Op2 Factor E' .
+E' .
+Op2 mul .
+Op2 div .
+Factor bo Aorbexpr bc .
+Factor Bool .
+Factor num .
+Factor rnum .
+Factor id K' .
+K' sqbo Elemindex sqbc .
+K' .
+Aexpr Aterm N4 .
+N4 Op1 Aterm N4 .
+N4 .
+Aterm Afactor N5 .
+N5 Op2 Afactor N5 .
+N5 .
+Afactor id .
+Afactor num .
+Afactor Bool .
+Afactor bo Aexpr bc .
+Bool true .
+Bool false .
+Logicalop AND .
+Logicalop OR .
+Relationalop lt .
+Relationalop gt .
+Relationalop le .
+Relationalop ge .
+Relationalop eq .
+Relationalop ne .
+Declarestmt declare Actparalist colon Datatype semicol .
+Conditionalstmt switch bo id bc start Casestmt Default end .
+Casestmt case Value colon Statements break semicol F' .
+F' case Value colon Statements break semicol F' .
+F' .
+Value num .
+Value true .
+Value false .
+Default default colon Statements break semicol .
+Default .
+Iterativestmt for bo id in Range bc start Statements end .
+Range Indloop rangeop Indloop .
+Indloop Signloop Indcoefloop .
+Indcoefloop num .
+Signloop plus .
+Signloop minus .
+Signloop .
+Iterativestmt while bo Aorbexpr bc start Statements end .
